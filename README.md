@@ -293,4 +293,5 @@ Le fichier `weekly_features.csv` sera créé dans le dossier `backend/`.
 - [ ] Graphe visualisé avec succès
 
 ## Démonstration Video :
-[Uploading DeepEduGraph.mp4.zip…]()
+Lien vers la démonstration vidéo (YouTube)
+https://youtu.be/QvPuAuPFRbk
