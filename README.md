@@ -294,4 +294,4 @@ Le fichier `weekly_features.csv` sera créé dans le dossier `backend/`.
 
 ## Démonstration Video :
 Lien vers la démonstration vidéo (YouTube)
-https://youtu.be/QvPuAuPFRbk
+https://youtu.be/QPuAuPFRbk
