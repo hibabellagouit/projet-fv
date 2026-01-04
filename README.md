@@ -249,9 +249,8 @@ Le fichier `weekly_features.csv` sera créé dans le dossier `backend/`.
 ### 5. Visualiser un Graphe
 
 1. Se connecter en tant que **TEACHER** ou **ADMIN**
-2. Entrer un ID étudiant (ex: `1`)
-3. Cliquer sur "Charger le Graphe"
-4. Le graphe s'affiche avec le risk score calculé
+2. Cliquer sur "Charger le Graphe"
+3. Le graphe s'affiche avec le risk score calculé
 
 ## 🔄 Workflow Complet
 
