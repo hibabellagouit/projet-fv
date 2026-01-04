@@ -253,6 +253,45 @@ Le fichier `weekly_features.csv` sera créé dans le dossier `backend/`.
 3. Cliquer sur "Charger le Graphe"
 4. Le graphe s'affiche avec le risk score calculé
 
+## 🔄 Workflow Complet
+
+```
+1. Démarrer tous les services
+   ↓
+2. Créer compte ADMIN
+   ↓
+3. Transformer dataset OULAD → weekly_features.csv
+   ↓
+4. Importer CSV via interface Admin
+   ↓
+5. Entraîner modèle IA
+   ↓
+6. Visualiser graphe étudiant (Teacher/Admin)
+   ↓
+7. Analyser risk score prédit
+```
+
 ---
+
+## 📚 Ressources
+
+- **Documentation Spring Boot** : https://spring.io/projects/spring-boot
+- **Documentation FastAPI** : https://fastapi.tiangolo.com
+- **Documentation React** : https://react.dev
+- **Dataset OULAD** : https://analyse.kmi.open.ac.uk/open_dataset
+
+---
+
+## ✅ Checklist de Démarrage
+
+- [ ] MySQL démarré
+- [ ] Tous les services backend démarrés (7 services)
+- [ ] AI Service démarré (port 8090)
+- [ ] Frontend démarré (port 5173)
+- [ ] Compte ADMIN créé
+- [ ] CSV transformé et importé
+- [ ] Modèle IA entraîné
+- [ ] Graphe visualisé avec succès
+
 
 [Uploading DeepEduGraph Web Application UI - Google Chrome 2026-01-03 19-29-23.zip…]()
