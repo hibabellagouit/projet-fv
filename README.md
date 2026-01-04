@@ -293,5 +293,5 @@ Le fichier `weekly_features.csv` sera créé dans le dossier `backend/`.
 - [ ] Modèle IA entraîné
 - [ ] Graphe visualisé avec succès
 
-
+## Démonstration Video :
 [Uploading DeepEduGraph Web Application UI - Google Chrome 2026-01-03 19-29-23.zip…]()
